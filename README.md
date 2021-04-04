@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./Screenshot.png)
 
 This is currently the desktop part, I believe it still has some flaws and I intend to improve it 
 
